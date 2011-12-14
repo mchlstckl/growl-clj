@@ -1,0 +1,13 @@
+# growl_clj
+
+Use Growl to display notifications using code from this project.
+
+## Usage
+
+Check unit-tests to find out how to display notifications.
+
+## License
+
+Copyright (C) 2011 Michael Stöckli
+
+Distributed under the Eclipse Public License, the same as Clojure.
